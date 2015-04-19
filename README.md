@@ -2,8 +2,8 @@
 
 
 
-- com.cleanmaster.mguard  (rapidly flashing black and white - absolutely horrible! AVOID at all cost)
-- 
+- **com.cleanmaster.mguard**  (rapidly flashing black and white - absolutely horrible! AVOID at all cost)
+
 
 
 
