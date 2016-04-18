@@ -3,6 +3,7 @@
 
 
 - **com.cleanmaster.mguard**  (rapidly flashing black and white - absolutely horrible! AVOID at all cost)
+- **com.dianxinos.optimizer.duplay
 
 
 
